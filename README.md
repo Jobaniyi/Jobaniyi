@@ -17,7 +17,7 @@ Zugrio is a trading-intelligence product for self-directed traders. I lead produ
 - Public technical case study: https://github.com/Jobaniyi/Portfolio/tree/main/projects/zugrio
 - Public portfolio: https://jobaniyi.github.io/Portfolio/
 
-The production Zugrio repository is private because it contains proprietary product specifications, strategy logic, risk/authority semantics and internal research.
+The production Zugrio repository is maintained separately because it contains proprietary product specifications, strategy logic, risk/authority semantics and internal research.
 
 ## Other work
 
