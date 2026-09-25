@@ -1,54 +1,71 @@
-# Hi there, I'm Jobaniyi 👋
+# Oluwaniyi Oluwajoba (Joba)
 
-Welcome to my GitHub profile! I'm a passionate software developer, STEM education consultant, and product manager with a keen interest in web development, database management, cloud infrastructure, and creating impactful applications.
+**Technical Product Owner · Product & Systems Builder · STEM/EdTech**
 
-## 🔭 What I'm Working On
-- [Payroll Automation System](https://github.com/Jobaniyi/payroll-automation)
-- [Online Application Portal](https://github.com/Jobaniyi/online-application-portal)
+I work at the intersection of product strategy, system design, technical governance and practical implementation. My background spans STEM/EdTech, product management, technical support and AI-assisted software development.
 
-## 🌱 What I'm Learning
-- Advanced Flask development and API integration
-- Deployment strategies using Docker and cloud platforms
+I am strongest where a problem is still ambiguous: turning it into product direction, requirements, architecture decisions, acceptance criteria and an implementation path that can be reviewed and improved.
 
-## 👯 Looking to Collaborate On
-- Projects focused on education technology (EdTech)
-- Workflow automation and process improvement tools
+## Current flagship work
 
-## 💬 Ask Me About
-- Building web applications with Python and Flask
-- STEM education strategies and management tools
-- Product management for tech startups
+### Zugrio — Market-Aware Trading Intelligence
+**Role:** Founder / Product Lead / Technical Product Owner
 
-## 📫 How to Reach Me
-- Email: jobaniyi@example.com
-- LinkedIn: [linkedin.com/in/jobaniyi](https://linkedin.com/in/jobaniyi)
-- Twitter: [@jobaniyi](https://twitter.com/jobaniyi)
+Zugrio is a trading-intelligence product for self-directed traders. I lead product direction, requirements, architecture governance, release scope, product-risk decisions and AI-assisted engineering workflows.
 
-## ⚡ Fun Fact
-- I’ve transitioned from being a STEM educator to a software developer and product manager, blending technology and education to make an impact.
+- Live product: https://zugrio.xyz
+- Public technical case study: https://github.com/Jobaniyi/Portfolio/tree/main/projects/zugrio
+- Public portfolio: https://jobaniyi.github.io/Portfolio/
 
-## 🛠️ Languages and Tools
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+The production Zugrio repository is private because it contains proprietary product specifications, strategy logic, risk/authority semantics and internal research.
 
-## 📈 GitHub Stats
-![Jobaniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobaniyi&show_icons=true&theme=radical)
+## Other work
 
-## 🏆 GitHub Trophies
-![Jobaniyi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jobaniyi&theme=radical)
+### SMOG EDUTECH
+STEM/EdTech work focused on curriculum systems, teacher enablement, coding/robotics delivery and educational product design.
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Payroll Automation System](#)
-- [Streamlining Online Application Portals](#)
-<!-- BLOG-POST-LIST:END -->
+- Website: https://smogedutech.com.ng
+- Selected public STEM work: https://github.com/Jobaniyi/STEM-Education-Curriculum-Development
 
-## 🔗 Other Links
-- [Portfolio](https://jobaniyi.github.io/portfolio)
-- [Personal Blog](https://medium.com/@jobaniyi)
+### Earlier software projects
+- [Online Application Portal](https://github.com/Jobaniyi/OnlineApplicationPortal)
+- [Payroll Automation System](https://github.com/Jobaniyi/Payroll-Automation-System)
+- [Employee Management Portal](https://github.com/Jobaniyi/EmployeeManagementPortal)
 
-Thank you for visiting my profile! Feel free to connect with me or check out my repositories. 😊
+## What I work on
+
+- Product requirements and PRDs
+- Technical product ownership
+- System and domain architecture
+- AI-assisted engineering workflows
+- Product-risk and trust boundaries
+- Frontend/product prototyping
+- API and integration requirements
+- Workflow automation
+- STEM/EdTech curriculum and learning systems
+
+## Working style
+
+I use AI development tools aggressively, but I do not treat chat output as product truth.
+
+I prefer:
+- versioned specifications;
+- explicit architecture decisions;
+- acceptance criteria;
+- branch/PR review;
+- tests for important behavior;
+- clear separation between product intent and implementation detail.
+
+## Tools and technologies
+
+**Product / Delivery:** Jira · Asana · Trello · product requirements · research · acceptance criteria  
+**Development / Technical:** Python · JavaScript · React · HTML/CSS · APIs · Git/GitHub · Cursor  
+**Infrastructure / Support:** Windows · macOS · Linux · Azure · Cloudflare  
+**AI-assisted development:** ChatGPT · Claude · AI coding workflows with human-owned product decisions
+
+## Links
+
+- Portfolio: https://jobaniyi.github.io/Portfolio/
+- LinkedIn: https://linkedin.com/in/jobaniyi
+- Zugrio: https://zugrio.xyz
+- SMOG EDUTECH: https://smogedutech.com.ng
