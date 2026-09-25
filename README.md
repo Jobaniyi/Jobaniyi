@@ -21,9 +21,12 @@ The production Zugrio repository is maintained separately because it contains pr
 
 ## Other work
 
-### SMOG EDUTECH
-STEM/EdTech work focused on curriculum systems, teacher enablement, coding/robotics delivery and educational product design.
+### SMOG EDUTECH — STEM Education Systems & Delivery
+**Role:** Founder / Lead STEM Consultant
 
+SMOG EDUTECH combines curriculum systems, teacher enablement, coding/robotics delivery, public-school implementation and education-product design. Recent work includes a 10-month pilot across two public schools, alongside ongoing Teacher OS and STEM Hub development.
+
+- Case study: https://github.com/Jobaniyi/Portfolio/tree/main/projects/smog-edutech
 - Website: https://smogedutech.com.ng
 - Selected public STEM work: https://github.com/Jobaniyi/STEM-Education-Curriculum-Development
 
